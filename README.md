@@ -10,6 +10,8 @@ Instructions to run:
 -> Run server on one terminal
 1. gcc -o server.out server.c
 2. sudo ./server.out
+
+
 -> Run client on another terminal
 1.gcc -o client.out client.c
 2. ./client.out
