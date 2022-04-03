@@ -13,5 +13,7 @@ Instructions to run:
 
 
 -> Run client on another terminal
+
 1.gcc -o client.out client.c
+
 2. ./client.out
