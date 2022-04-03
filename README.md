@@ -7,7 +7,9 @@ Group Members
 Assignment 1
 
 Instructions to run:
-gcc -o server server.c
-sudo ./server
-gcc -o client client.c
-./client
+Run server on one terminal
+1. gcc -o server server.c
+2. sudo ./server
+Run client on another terminal
+1.gcc -o client client.c
+2. ./client
