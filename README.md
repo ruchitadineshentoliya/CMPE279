@@ -7,13 +7,25 @@ Group Members
 Assignment 1
 
 Instructions to run:
--> Run server on one terminal
-1. gcc -o server.out server.c
-2. sudo ./server.out
+	-> Run server on one terminal
+	1. gcc -o server.out server.c
+	2. sudo ./server.out
 
 
--> Run client on another terminal
+	-> Run client on another terminal
 
-1.gcc -o client.out client.c
+	1. gcc -o client.out client.c
+	2. ./client.out
 
-2. ./client.out
+Assignment 2
+
+Instructions to run:
+	-> Run server on one terminal
+	1. gcc -o server server.c
+	2. sudo ./server
+
+
+	-> Run client on another terminal
+
+	1. gcc -o client client.c
+	2. ./client
