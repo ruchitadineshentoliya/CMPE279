@@ -7,7 +7,9 @@ Group Members
 Assignment 1
 
 Instructions to run:
+
 	-> Run server on one terminal
+	
 	1. gcc -o server.out server.c
 	2. sudo ./server.out
 
@@ -20,7 +22,9 @@ Instructions to run:
 Assignment 2
 
 Instructions to run:
+
 	-> Run server on one terminal
+	
 	1. gcc -o server server.c
 	2. sudo ./server
 
